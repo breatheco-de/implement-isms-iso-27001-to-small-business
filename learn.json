@@ -9,6 +9,7 @@
         "es": "Este proyecto guía a los estudiantes a través del proceso de desarrollo de un Sistema de Gestión de Seguridad de la Información (SGSI) básico para una organización pública. Los estudiantes definirán el alcance, realizarán una evaluación de riesgos, seleccionarán controles apropiados y documentarán políticas y procedimientos de seguridad. El proyecto tiene como objetivo desarrollar habilidades prácticas en evaluación de riesgos, desarrollo de políticas y aplicación de un enfoque basado en riesgos para la seguridad de la información en el contexto del sector público."
     },
     "duration": 5,
+    "projectType": "project",
     "difficulty": "intermediate",
     "technologies": ["cybersecurity", "ciberseguridad", "ISMS", "SGSI", "iso27001", "iso-27001"],
     "repository": "https://github.com/breatheco-de/implement-isms-iso-27001-to-small-business",
